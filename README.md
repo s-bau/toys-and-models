@@ -1,4 +1,4 @@
-Creation of a dashboard and KPIs for a model company (3 weeks)
+Creation of a dashboard and KPIs for a model company
 
 • Data analysis in MySql
 • Data visualization in Power BI
