@@ -1,5 +1,4 @@
-Creation of a dashboard and KPIs for a model company
-Focus on Sales, Finances, Logistics, and Human Resources
+Creation of a dashboard and KPIs for a model company (focus on Sales, Finances, Logistics, and Human Resources)
 
 Group Project 1 at Wild Code School (3 weeks)
 
