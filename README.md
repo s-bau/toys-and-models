@@ -7,11 +7,11 @@ Group Project 1 at Wild Code School (3 weeks)
 * Data analysis in MySql
 * Data visualization in Power BI
 
-<img src=dashboard_summary.jpg>
-<img src=dashboard_sales.jpg>
-<img src=dashboard_finances.jpg>
-<img src=dashboard_logistics.jpg>
-<img src=dashboard_hr.jpg>
+<img src=images/dashboard_summary.jpg>
+<img src=images/dashboard_sales.jpg>
+<img src=images/dashboard_finances.jpg>
+<img src=images/dashboard_logistics.jpg>
+<img src=images/dashboard_hr.jpg>
   
 
 ## Files in this repository
